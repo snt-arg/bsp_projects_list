@@ -4,36 +4,44 @@ This repository catalogs Bachelor Semester Projects (BSPs) completed by undergra
 
 ## 📋 List of Projects
 
-### Semester 2024-01
+### Semester 2024-02
 
-| BSP-ID     | Discipline | Title  | Student | Supervisor                                       | Mentor                              | Links                          |
-| ---------- | ---------- | ------ | ------- | ------------------------------------------------ | ----------------------------------- | ------------------------------ |
-| ARG-240101 | Drone      | Sample | Maeva   | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | Functional prototype developed |
+| BSP-ID    | Discipline | Title | Student                                           | Supervisor                                       | Mentor                              | Links |
+| --------- | ---------- | ----- | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------- | ----- |
+| ARG-24S01 | Drone      | TBD   | [Ingrid Maéva CHEKAM](https://github.com/maeri18) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
 
 ### Semester 2024-Summer
 
-| BSP-ID     | Discipline | Title  | Student | Supervisor                                       | Mentor                              | Links                          |
-| ---------- | ---------- | ------ | ------- | ------------------------------------------------ | ----------------------------------- | ------------------------------ |
-| ARG-240101 | Drone      | Sample | Maeva   | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | Functional prototype developed |
+| BSP-ID     | Discipline | Title                                     | Student                                           | Supervisor                                       | Mentor                              | Links                                                       |
+| ---------- | ---------- | ----------------------------------------- | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------- | ----------------------------------------------------------- |
+| ARG-240101 | Drone      | Person Tracking and Control using a Drone | [Ingrid Maéva CHEKAM](https://github.com/maeri18) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | [GitHub](https://github.com/snt-arg/Tello-object-detection) |
+
+### Semester 2024-01
+
+| BSP-ID     | Discipline      | Title                                                | Student                                           | Supervisor                                       | Mentor                              | Links                                                       |
+| ---------- | --------------- | ---------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------- | ----------------------------------------------------------- |
+| ARG-240101 | Computer Vision | Machine Learning Object Detection in Real-Time Video | [Ingrid Maéva CHEKAM](https://github.com/maeri18) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | [GitHub](https://github.com/snt-arg/Tello-object-detection) |
+| ARG-240102 | Computer Vision | Facial Recognition across Varied Lighting Conditions | Vasileios PANDIS                                  | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -                                                           |
 
 ### Semester 2023-02
 
-| BSP-ID     | Discipline | Title  | Student | Supervisor                                       | Mentor                              | Links                          |
-| ---------- | ---------- | ------ | ------- | ------------------------------------------------ | ----------------------------------- | ------------------------------ |
-| ARG-240101 | Drone      | Sample | Maeva   | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | Functional prototype developed |
+| BSP-ID     | Discipline      | Title                                             | Student                                        | Supervisor                                       | Mentor                              | Links |
+| ---------- | --------------- | ------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | ----------------------------------- | ----- |
+| ARG-230201 | Computer Vision | Detection and Modeling of the Surrounding Objects | [Maxime CAPDOUZE](https://github.com/maxcap12) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
 
 ### Semester 2023-01
 
-| BSP-ID     | Discipline | Title  | Student | Supervisor                                       | Mentor                              | Links                          |
-| ---------- | ---------- | ------ | ------- | ------------------------------------------------ | ----------------------------------- | ------------------------------ |
-| ARG-240101 | Drone      | Sample | Maeva   | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | Functional prototype developed |
+| BSP-ID     | Discipline | Title                                               | Student            | Supervisor                                       | Mentor                              | Links |
+| ---------- | ---------- | --------------------------------------------------- | ------------------ | ------------------------------------------------ | ----------------------------------- | ----- |
+| ARG-230101 | Sensor     | A Sensor-Software Pair to Detect Invisible Markers  | Cosmin RADOI       | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
+| ARG-230102 | Drone      | A Gesture Control System for a Tello Drone          | Daniil HRYHAROVICH | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
+| ARG-230103 | Drone      | Simultaneous Localization and Mapping using a Drone | David PRIERA       | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
 
 ### Semester 2022-02
 
-| BSP-ID     | Discipline   | Title                                                   | Student                             | Supervisor | Mentor | Links |
-| ---------- | ------------ | ------------------------------------------------------- | ----------------------------------- | ---------- | ------ | ----- |
-| ARG-220201 | Sensor       | A Robust Computer Vision Framework for State-of-the-art |
-| Robotics   | Cosmin RADOI | [Dr. Sanchez-Lopez](https://github.com/joselusl)        | [AT](https://github.com/alitourani) | -          |
+| BSP-ID     | Discipline | Title                                        | Student      | Supervisor                                       | Mentor                              | Links |
+| ---------- | ---------- | -------------------------------------------- | ------------ | ------------------------------------------------ | ----------------------------------- | ----- |
+| ARG-220202 | Sensor     | A Robust Computer Vision Sensor for Robotics | Cosmin RADOI | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
 
 ## 🚀 Join Us!
 
