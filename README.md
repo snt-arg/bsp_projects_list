@@ -28,6 +28,7 @@ This repository catalogs Bachelor Semester Projects (BSPs) completed by undergra
 | BSP-ID     | Discipline      | Title                                             | Student                                        | Supervisor                                       | Mentor                              | Links |
 | ---------- | --------------- | ------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | ----------------------------------- | ----- |
 | ARG-230201 | Computer Vision | Detection and Modeling of the Surrounding Objects | [Maxime CAPDOUZE](https://github.com/maxcap12) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
+| ARG-230202 | Navigation | Integrating multiple technologies for autonomous robot control | Pedro SOARES | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [Dr. Hriday Bavle](https://github.com/hridaybavle) | [unitree_ros](https://github.com/snt-arg/unitree_ros)     |
 
 ### Semester 2023-01
 
@@ -36,13 +37,29 @@ This repository catalogs Bachelor Semester Projects (BSPs) completed by undergra
 | ARG-230101 | Sensor     | A Sensor-Software Pair to Detect Invisible Markers  | Cosmin RADOI       | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
 | ARG-230102 | Drone      | A Gesture Control System for a Tello Drone          | Daniil HRYHAROVICH | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
 | ARG-230103 | Drone      | Simultaneous Localization and Mapping using a Drone | David PRIERA       | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
+| ARG-230104 | Software Engineering | Applying Software Engineering Principles to Create an Open Source Robotic Component Software | Pedro SOARES | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [Dr. Hriday Bavle](https://github.com/hridaybavle) | [lidar_situational_graphs](https://github.com/snt-arg/lidar_situational_graphs)     |
+
 
 ### Semester 2022-02
 
 | BSP-ID     | Discipline | Title                                        | Student      | Supervisor                                       | Mentor                              | Links |
 | ---------- | ---------- | -------------------------------------------- | ------------ | ------------------------------------------------ | ----------------------------------- | ----- |
 | ARG-220201 | Sensor     | A Robust Computer Vision Sensor for Robotics | Cosmin RADOI | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
-| ARG-220202 | Navigation | Integrating multiple technologies for autonomous robot control | Pedro SOARES | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/hridaybavle) | [unitree_ros](https://github.com/snt-arg/unitree_ros)     |
+
+
+### Semester 2021-02
+
+| BSP-ID     | Discipline | Title                                        | Student      | Supervisor                                       | Mentor                              | Links |
+| ---------- | ---------- | -------------------------------------------- | ------------ | ------------------------------------------------ | ----------------------------------- | ----- |
+| ARG-210201 | VSLAM     | Visual SLAM for a swarm of micro aerial robots | Pedro SOARES | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [Github](https://github.com/PedroS235/TelloSwarm)    |
+
+### Semester 2021-01
+
+| BSP-ID     | Discipline | Title                                        | Student      | Supervisor                                       | Mentor                              | Links |
+| ---------- | ---------- | -------------------------------------------- | ------------ | ------------------------------------------------ | ----------------------------------- | ----- |
+| ARG-210101 | Swarm      | Controlling a swarm of Tello drones          | Pedro SOARES | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [Dr. Sanchez-Lopez](https://github.com/joselusl)   | [Github](https://github.com/PedroS235/TelloSwarm/releases/tag/Location_with_aruco_markers)    |
+
+
 
 ## 🚀 Join Us!
 
