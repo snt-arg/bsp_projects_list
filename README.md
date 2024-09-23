@@ -6,9 +6,34 @@ This repository catalogs Bachelor Semester Projects (BSPs) completed by undergra
 
 ### Semester 2024-01
 
-| BSP-ID     | Discipline | Title  | Student | Supervisor | Mentor | Details                        |
-| ---------- | ---------- | ------ | ------- | ---------- | ------ | ------------------------------ |
-| ARG-240101 | Drone      | Sample | Maeva   | JL-SL      | AT     | Functional prototype developed |
+| BSP-ID     | Discipline | Title  | Student | Supervisor                                       | Mentor                              | Links                          |
+| ---------- | ---------- | ------ | ------- | ------------------------------------------------ | ----------------------------------- | ------------------------------ |
+| ARG-240101 | Drone      | Sample | Maeva   | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | Functional prototype developed |
+
+### Semester 2024-Summer
+
+| BSP-ID     | Discipline | Title  | Student | Supervisor                                       | Mentor                              | Links                          |
+| ---------- | ---------- | ------ | ------- | ------------------------------------------------ | ----------------------------------- | ------------------------------ |
+| ARG-240101 | Drone      | Sample | Maeva   | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | Functional prototype developed |
+
+### Semester 2023-02
+
+| BSP-ID     | Discipline | Title  | Student | Supervisor                                       | Mentor                              | Links                          |
+| ---------- | ---------- | ------ | ------- | ------------------------------------------------ | ----------------------------------- | ------------------------------ |
+| ARG-240101 | Drone      | Sample | Maeva   | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | Functional prototype developed |
+
+### Semester 2023-01
+
+| BSP-ID     | Discipline | Title  | Student | Supervisor                                       | Mentor                              | Links                          |
+| ---------- | ---------- | ------ | ------- | ------------------------------------------------ | ----------------------------------- | ------------------------------ |
+| ARG-240101 | Drone      | Sample | Maeva   | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | Functional prototype developed |
+
+### Semester 2022-02
+
+| BSP-ID     | Discipline   | Title                                                   | Student                             | Supervisor | Mentor | Links |
+| ---------- | ------------ | ------------------------------------------------------- | ----------------------------------- | ---------- | ------ | ----- |
+| ARG-220201 | Sensor       | A Robust Computer Vision Framework for State-of-the-art |
+| Robotics   | Cosmin RADOI | [Dr. Sanchez-Lopez](https://github.com/joselusl)        | [AT](https://github.com/alitourani) | -          |
 
 ## 🚀 Join Us!
 
