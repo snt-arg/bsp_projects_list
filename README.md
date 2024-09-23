@@ -41,7 +41,8 @@ This repository catalogs Bachelor Semester Projects (BSPs) completed by undergra
 
 | BSP-ID     | Discipline | Title                                        | Student      | Supervisor                                       | Mentor                              | Links |
 | ---------- | ---------- | -------------------------------------------- | ------------ | ------------------------------------------------ | ----------------------------------- | ----- |
-| ARG-220202 | Sensor     | A Robust Computer Vision Sensor for Robotics | Cosmin RADOI | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
+| ARG-220201 | Sensor     | A Robust Computer Vision Sensor for Robotics | Cosmin RADOI | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
+| ARG-220202 | Navigation | Integrating multiple technologies for autonomous robot control | Pedro SOARES | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/hridaybavle) | [unitree_ros](https://github.com/snt-arg/unitree_ros)     |
 
 ## 🚀 Join Us!
 
