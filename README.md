@@ -22,6 +22,7 @@ This repository catalogs Bachelor Semester Projects (BSPs) completed by undergra
 | ---------- | --------------- | ---------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------- | ----------------------------------------------------------- |
 | ARG-240101 | Computer Vision | Machine Learning Object Detection in Real-Time Video | [Ingrid Maéva CHEKAM](https://github.com/maeri18) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | [GitHub](https://github.com/snt-arg/Tello-object-detection) |
 | ARG-240102 | Computer Vision | Facial Recognition across Varied Lighting Conditions | Vasileios PANDIS                                  | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -                                                           |
+| ARG-240102 | Drone | Drone Puppetry Control | Viliam Alexander Cernansky                           | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [MG](https://github.com/mgiberna) | -                                                           |
 
 ### Semester 2023-02
 
