@@ -9,6 +9,9 @@ This repository catalogs Bachelor Semester Projects (BSPs) completed by undergra
 | BSP-ID       | Discipline | Title | Student                                           | Supervisor                                       | Mentor                              | Links |
 | ------------ | ---------- | ----- | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------- | ----- |
 | BSP-24250101 | Drone      | TBD   | [Ingrid Maéva CHEKAM](https://github.com/maeri18) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -     |
+| BSP-24250102 | Drone      | TBD   | [Ines PASTOR](https://github.com/inespastor1995) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -  |
+| BSP-24250102 | Drone      | TBD   | Mykhailo MARSHANISHVILI | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -  |
+| BSP-24250102 | Drone      | TBD   | [Sven BARNICH](https://github.com/Sven69420) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -  |
 
 ### Semester 23/24 03
 
@@ -23,13 +26,19 @@ This repository catalogs Bachelor Semester Projects (BSPs) completed by undergra
 | BSP-240101   | Computer Vision | Machine Learning Object Detection in Real-Time Video | [Ingrid Maéva CHEKAM](https://github.com/maeri18) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | [GitHub](https://github.com/snt-arg/Tello-object-detection) |
 | BSP-23240201 | Computer Vision | Facial Recognition across Varied Lighting Conditions | Vasileios PANDIS                                  | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | -                                                           |
 | BSP-23240202 | Drone           | Drone Puppetry Control                               | Viliam Alexander Cernansky                        | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [MG](https://github.com/mgiberna)   | -                                                           |
+| BSP-23240203 | Drone  | Human-Dron Interaction with Natural Language | [Ines PASTOR](https://github.com/inespastor1995) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | [GitHub](https://github.com/inespastor1995/BSP4)   |
+| BSP-23240204 | Scene Graphs | Use of LMM to Extract Semantic Information from Robot Observations | Mykhailo MARSHANISHVILI | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) |  |
+| BSP-23240205 | Drone | Improving safety of autonomous robots in indoor environments using machine learning | [Sven BARNICH](https://github.com/Sven69420) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | [GitHub](https://github.com/snt-arg/tello_ws) |
+| BSP-23240206 | Scene Graphs | Machine Learning Object Detection in Real-Time Video | Vasile MIRON | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | [GitHub](https://github.com/snt-arg/situational_graphs_datasets) |
 
 ### Semester 23/24 01
 
 | BSP-ID     | Discipline      | Title                                                          | Student                                        | Supervisor                                       | Mentor                                             | Links                                            |
 | ---------- | --------------- | -------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------ |
-| BSP-230201 | Computer Vision | Detection and Modeling of the Surrounding Objects              | [Maxime CAPDOUZE](https://github.com/maxcap12) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani)                | -                                                |
-| BSP-230202 | Navigation      | Integrating multiple technologies for autonomous robot control | Pedro SOARES                                   | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [Dr. Hriday Bavle](https://github.com/hridaybavle) | [GitHub](https://github.com/snt-arg/unitree_ros) |
+| BSP-23240101 | Computer Vision | Detection and Modeling of the Surrounding Objects              | [Maxime CAPDOUZE](https://github.com/maxcap12) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani)                | -                                                |
+| BSP-23240102 | Navigation      | Integrating multiple technologies for autonomous robot control | Pedro SOARES                                   | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [Dr. Hriday Bavle](https://github.com/hridaybavle) | [GitHub](https://github.com/snt-arg/unitree_ros) |
+| BSP-23240103 | Drone | Behavior Tree for DJI Tello Drone | David PEREIRA | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | |
+| BSP-23240104 | Drone | Persons Tracking Algorithms For Walking Robots Using Camera | [Polina KULESHOVA](https://github.com/Polindromka) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | [GitHub](https://github.com/snt-arg/person_tracker_plugin) |
 
 ### Semester 22/23 02
 
@@ -40,7 +49,8 @@ This repository catalogs Bachelor Semester Projects (BSPs) completed by undergra
 | BSP-22230203 | Drone                | Simultaneous Localization and Mapping using a Drone                                                                  | David PEREIRA                                                                    | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani)                | -                                                             |
 | BSP-22230204 | Software Engineering | Applying Software Engineering Principles to Create an Open Source Robotic Component Software                         | Pedro SOARES                                                                     | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [Dr. Hriday Bavle](https://github.com/hridaybavle) | [GitHub](https://github.com/snt-arg/lidar_situational_graphs) |
 | BSP-22230205 | Computer Vision      | Situational understanding of semantic elements in the environment using implicit neural representations for robotics | [Pit BAUM](https://github.com/pitbaum)                                           | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR)            | [GitHub](https://github.com/pitbaum/BSP6)                     |
-| BSP-22230206 | Finance              | Prediction of the price evolution of a stock                                                                         | [Ines PASTOR](<[https://github.com/pitbaum](https://github.com/inespastor1995)>) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR)            | [GitHub](https://github.com/inespastor1995/BPS2)              |
+| BSP-22230206 | Finance              | Prediction of the price evolution of a stock | [Ines PASTOR](https://github.com/inespastor1995) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | [GitHub](https://github.com/inespastor1995/BPS2)   |
+| BSP-22230207 | Computer Vision              | Image segmentation: analysis of performances and implementation | [Maxime CAPDOUZE](https://github.com/maxcap12) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR)            |            |
 
 ### Semester 22/23 01
 
