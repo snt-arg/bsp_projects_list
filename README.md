@@ -31,6 +31,7 @@ This repository catalogs Bachelor Semester Projects (BSPs) completed by undergra
 | ARG-230201 | Computer Vision | Detection and Modeling of the Surrounding Objects              | [Maxime CAPDOUZE](https://github.com/maxcap12) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani)                | -                                                |
 | ARG-230202 | Navigation      | Integrating multiple technologies for autonomous robot control | Pedro SOARES                                   | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [Dr. Hriday Bavle](https://github.com/hridaybavle) | [GitHub](https://github.com/snt-arg/unitree_ros) |
 | ARG-230203 | Computer Vision | Situational understanding of semantic elements in the environment using implicit neural representations for robotics | [Pit BAUM](https://github.com/pitbaum) |  [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR)  | [GitHub](https://github.com/pitbaum/BSP6) |
+| ARG-230204 | Finance | Prediction of the price evolution of a stock | [Ines PASTOR]([https://github.com/pitbaum](https://github.com/inespastor1995)) |  [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR)  | [GitHub](https://github.com/inespastor1995/BPS2) |
 
 ### Semester 2023-01
 
