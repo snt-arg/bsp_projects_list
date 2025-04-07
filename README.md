@@ -19,6 +19,7 @@ This repository catalogs Bachelor Semester Projects (BSPs) completed by undergra
 | BSP-24250102 | Drone      | TBD   | [Ines PASTOR](https://github.com/inespastor1995)  | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -                                                           |
 | BSP-24250103 | Drone      | TBD   | Mykhailo MARSHANISHVILI                           | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -                                                           |
 | BSP-24250104 | Drone      | TBD   | [Sven BARNICH](https://github.com/Sven69420)      | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -                                                           |
+| BSP-24250105 | Drone      | TBD   | [Maxime CAPDOUZE](https://github.com/maxcap12)    | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [LR](https://github.com/lauribeiro)     | -                                                           |
 
 ### Semester 23/24 03
 
