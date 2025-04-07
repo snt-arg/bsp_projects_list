@@ -6,20 +6,21 @@ This repository catalogs Bachelor Semester Projects (BSPs) completed by undergra
 
 ### Semester 24/25 02
 
-| BSP-ID       | Discipline | Title | Student                                           | Supervisor                                       | Mentor                              | Links                                                       |
-| ------------ | ---------- | ----- | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------- | ----------------------------------------------------------- |
-| BSP-24250201 | Drone      | TBD   | [Ingrid Maéva CHEKAM](https://github.com/maeri18) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | [GitHub](https://github.com/snt-arg/Tello-object-detection) |
-| BSP-24250202 | Drone      | TBD   | [Olena SVIATKO](#)                                | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani) | [GitHub](https://github.com/snt-arg/ros-marker-command-gen) |
+| BSP-ID       | Discipline | Title                                 | Student                                           | Supervisor                                       | Mentor                                  | Links                                                       |
+| ------------ | ---------- | ------------------------------------- | ------------------------------------------------- | ------------------------------------------------ | --------------------------------------- | ----------------------------------------------------------- |
+| BSP-24250201 | Drone      | LLM-based Person Tracking and Control | [Ingrid Maéva CHEKAM](https://github.com/maeri18) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani)     | [GitHub](https://github.com/snt-arg/Tello-object-detection) |
+| BSP-24250202 | Drone      | Marker-based HRI                      | [Olena SVIATKO](#)                                | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani)     | [GitHub](https://github.com/snt-arg/ros-marker-command-gen) |
+| BSP-2425023  | Drone      | LLM-based Person Tracking and Control | [Ines PASTOR](https://github.com/inespastor1995)  | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -                                                           |
 
 ### Semester 24/25 01
 
-| BSP-ID       | Discipline | Title | Student                                           | Supervisor                                       | Mentor                                  | Links                                                       |
-| ------------ | ---------- | ----- | ------------------------------------------------- | ------------------------------------------------ | --------------------------------------- | ----------------------------------------------------------- |
-| BSP-24250101 | Drone      | TBD   | [Ingrid Maéva CHEKAM](https://github.com/maeri18) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani)     | [GitHub](https://github.com/snt-arg/Tello-object-detection) |
-| BSP-24250102 | Drone      | TBD   | [Ines PASTOR](https://github.com/inespastor1995)  | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -                                                           |
-| BSP-24250103 | Drone      | TBD   | Mykhailo MARSHANISHVILI                           | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -                                                           |
-| BSP-24250104 | Drone      | TBD   | [Sven BARNICH](https://github.com/Sven69420)      | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -                                                           |
-| BSP-24250105 | Drone      | TBD   | [Maxime CAPDOUZE](https://github.com/maxcap12)    | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [LR](https://github.com/lauribeiro)     | -                                                           |
+| BSP-ID       | Discipline | Title                                 | Student                                           | Supervisor                                       | Mentor                                  | Links                                                       |
+| ------------ | ---------- | ------------------------------------- | ------------------------------------------------- | ------------------------------------------------ | --------------------------------------- | ----------------------------------------------------------- |
+| BSP-24250101 | Drone      | LLM-based Person Tracking and Control | [Ingrid Maéva CHEKAM](https://github.com/maeri18) | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [AT](https://github.com/alitourani)     | [GitHub](https://github.com/snt-arg/Tello-object-detection) |
+| BSP-24250102 | Drone      | LLM-based Person Tracking and Control | [Ines PASTOR](https://github.com/inespastor1995)  | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -                                                           |
+| BSP-24250103 | Drone      | TBD                                   | Mykhailo MARSHANISHVILI                           | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -                                                           |
+| BSP-24250104 | Drone      | TBD                                   | [Sven BARNICH](https://github.com/Sven69420)      | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [JAMR](https://github.com/JoseAndresMR) | -                                                           |
+| BSP-24250105 | Drone      | TBD                                   | [Maxime CAPDOUZE](https://github.com/maxcap12)    | [Dr. Sanchez-Lopez](https://github.com/joselusl) | [LR](https://github.com/lauribeiro)     | -                                                           |
 
 ### Semester 23/24 03
 
